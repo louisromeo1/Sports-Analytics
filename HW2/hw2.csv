@@ -1,0 +1,7 @@
+outs,run_diff,first_base,second_base,third_base,winner,win_probability
+3,-1,1,0,0,0,0.35
+6,0,0,1,0,1,0.50
+12,2,0,0,0,1,0.75
+18,-1,1,0,0,0,0.40
+24,0,0,1,0,0,0.55
+27,1,0,0,1,1,0.90

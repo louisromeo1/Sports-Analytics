@@ -1,0 +1,7 @@
+Inning,Score,Outs,Runners,PitchCode,WinProbChange,CurrentWinProb,Batter,Pitcher,PlayDescription
+1,0-0,0,XOX,0-0,0,0,Batter 1,Pitcher 1,Bunt foul
+2,0-1,0,XOX,0-0,0,0,Batter 2,Pitcher 2,Bunt successful, runner advances, batter out
+3,0-2,0,XOX,0-0,0,0,Batter 3,Pitcher 3,Bunt, batter safe, runner out at second
+4,0-3,0,XOX,0-0,0,0,Batter 4,Pitcher 4,Bunt, everyone safe
+5,0-4,0,XOX,0-0,0,0,Batter 5,Pitcher 5,Bunt foul
+6,0-5,0,XOX,0-0,0,0,Batter 6,Pitcher 6,Bunt successful, runner advances, batter out

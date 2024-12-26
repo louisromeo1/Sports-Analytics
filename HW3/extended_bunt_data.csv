@@ -1,0 +1,16 @@
+Inning,Score,Outs,Runners,PitchCode,WinProbChange,CurrentWinProb,Batter,Pitcher,PlayDescription
+1,0-0,0,XOX,0-0,0,0,Batter 1,Pitcher 1,Bunt foul
+2,0-1,0,XOX,0-0,0,0,Batter 2,Pitcher 2,Bunt successful, runner advances, batter out
+3,0-2,0,XOX,0-0,0,0,Batter 3,Pitcher 3,Bunt, batter safe, runner out at second
+4,0-3,0,XOX,0-0,0,0,Batter 4,Pitcher 4,Bunt, everyone safe
+5,0-4,0,XOX,0-0,0,0,Batter 5,Pitcher 5,Bunt foul
+6,0-5,0,XOX,0-0,0,0,Batter 6,Pitcher 6,Bunt successful, runner advances, batter out
+7,1-0,0,XOX,0-0,0,0,Batter 7,Pitcher 7,Bunt, batter out at first, runner advances
+8,2-1,0,XOX,0-0,0,0,Batter 8,Pitcher 8,Bunt, runner out at second, batter safe at first
+9,0-0,0,XOX,0-0,0,0,Batter 9,Pitcher 9,Bunt, everyone safe
+10,1-0,0,XOX,0-0,0,0,Batter 10,Pitcher 10,Bunt foul
+11,0-2,0,XOX,0-0,0,0,Batter 11,Pitcher 11,Bunt successful, runner advances, batter out
+12,1-0,0,XOX,0-0,0,0,Batter 12,Pitcher 12,Bunt, batter out at first, runner advances
+13,0-0,0,XOX,0-0,0,0,Batter 13,Pitcher 13,Bunt successful, runner advances, batter out
+14,0-3,0,XOX,0-0,0,0,Batter 14,Pitcher 14,Bunt foul
+15,0-1,0,XOX,0-0,0,0,Batter 15,Pitcher 15,Bunt, batter safe, runner out at second
